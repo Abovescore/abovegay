@@ -29,14 +29,7 @@ export default defineConfig({
     vueDevTools(),
   ],
   build: {
-    minify: 'terser',
-    terserOptions: {
-      mangle: {
-        properties: {
-          regex: /^_/,
-        },
-      },
-    },
+    minify: 'terser'
   },
   resolve: {
     alias: {
