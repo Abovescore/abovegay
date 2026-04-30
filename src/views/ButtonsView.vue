@@ -38,6 +38,9 @@ function copyCode() {
           <a href="https://silly.city" target="_blank">
             <img src="/gif/buttons/sillycity.gif" alt="Silly City Webring" class="web-badge" loading="lazy" />
           </a>
+          <a href="https://jaymbermations.org" target="_blank">
+            <img src="/gif/buttons/jaymber.webp" alt="Jaymbermations" class="web-badge" loading="lazy" />
+          </a>
           <a href="https://lyra.horse" target="_blank">
             <img src="/gif/buttons/lyra.horse.png" alt="Rebane2001" class="web-badge" loading="lazy" />
           </a>
@@ -55,6 +58,7 @@ function copyCode() {
           <img src="/gif/buttons/men.png" class="web-badge" loading="lazy" />
           <img src="/gif/buttons/transrights.gif" class="web-badge" loading="lazy" />
           <img src="/gif/buttons/js-warning.gif" class="web-badge" loading="lazy" />
+          <iframe src="//incr.easrng.net/badge?key=abovedotgay" class="web-badge" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
           <a href="https://www.repair.org/stand-up" target="_blank" rel="noopener noreferrer">
             <img src="/gif/buttons/right-to-repair.webp" class="web-badge" loading="lazy" />
           </a>
@@ -69,6 +73,14 @@ function copyCode() {
           </a>
           <img src="/gif/buttons/tomscott.webp" class="web-badge" loading="lazy" />
           <img src="/gif/buttons/queen.gif" class="web-badge" loading="lazy" />
+          <img src="/gif/buttons/anythingbut.gif" class="web-badge" loading="lazy" />
+          <img src="/gif/buttons/archlinux.png" class="web-badge" loading="lazy" />
+          <img src="/gif/buttons/kde-now.gif" class="web-badge" loading="lazy" />
+          <img src="/gif/buttons/nomobilebanner.jpg" class="web-badge" loading="lazy" />
+          <img src="/gif/buttons/pbsource.png" class="web-badge" loading="lazy" />
+          <img src="/gif/buttons/steam.gif" class="web-badge" loading="lazy" />
+          <img src="/gif/buttons/tested-on-firefox.webp" class="web-badge" loading="lazy" />
+          <img src="/gif/buttons/blockads.gif" class="web-badge" loading="lazy" />
         </div>
       </div>
     </div>
