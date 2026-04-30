@@ -41,6 +41,8 @@ declare module 'vue' {
     IconSimpleIconsVite: typeof import('~icons/simple-icons/vite')['default']
     IconSimpleIconsVscodium: typeof import('~icons/simple-icons/vscodium')['default']
     IconSimpleIconsVuedotjs: typeof import('~icons/simple-icons/vuedotjs')['default']
+    IconSimpleIconsZedindustries: typeof import('~icons/simple-icons/zedindustries')['default']
+    IconSimpleIconsZedIndustries: typeof import('~icons/simple-icons/zed-industries')['default']
     NavBar: typeof import('./components/NavBar.vue')['default']
     ParticleBackground: typeof import('./components/ParticleBackground.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
