@@ -36,24 +36,6 @@
             <icon-lucide-external-link class="contact-arrow" />
           </a>
 
-          <a href="https://x.com/above_score" target="_blank" rel="noopener noreferrer" class="contact-item">
-            <icon-simple-icons-twitter class="contact-icon" />
-            <div class="contact-info">
-              <span class="contact-label">Twitter</span>
-              <span class="contact-value">@above_score</span>
-            </div>
-            <icon-lucide-external-link class="contact-arrow" />
-          </a>
-
-          <a href="https://gdbrowser.com/u/Abovescore" target="_blank" rel="noopener noreferrer" class="contact-item">
-            <icon-simple-icons-geode class="contact-icon" />
-            <div class="contact-info">
-              <span class="contact-label">Geometry Dash</span>
-              <span class="contact-value">Abovescore</span>
-            </div>
-            <icon-lucide-external-link class="contact-arrow" />
-          </a>
-
         </div>
       </div>
     </div>
